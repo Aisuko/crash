@@ -9,7 +9,7 @@
 > 2021-06-08 SZ
 > DJI Go 4 run on smart controller which always no response
 
-![](img/no_response.JPG)
+![](img/controller-with-screen.png)
 
 **The reason**
 
